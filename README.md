@@ -5,4 +5,5 @@
 
 🔗 Check out my projects on [GitHub](https://github.com/youlmeng)  
 📧 Feel free to reach out to me at [email@example.com](mailto:email@example.com)
-<img src="https://github-readme-stats.vercel.app/api?username=youlmeng&show_icons=false&theme=Default" alt="logo" align="center" width="50%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=youlmeng&show_icons=false&theme=Default" alt="logo" align="right" width="50%" />
