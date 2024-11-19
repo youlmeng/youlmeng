@@ -4,5 +4,3 @@
 - 👀 I’m passionate about web development, data science with python 
 - 🌱 I’m currently learning python and building projects 
 - ⚡ Fun fact: Life is short, so I spend it learning python 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youlmeng&repo=youlmeng)](https://github.com/youlmeng/youlmeng)
